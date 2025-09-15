@@ -3,6 +3,7 @@
     box-sizing: border-box;
 }
 #page-wrapper{
+    width: 80vw;
     margin: auto;
 }
 main{
@@ -77,7 +78,7 @@ h3{
     }
     nav li{
         display: inline;
-        padding: 2% 5%;
+        padding: 2% 4%;
         margin: 0;
         font-size: calc(2px + 1vw);
     }

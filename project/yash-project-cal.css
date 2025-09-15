@@ -4,6 +4,7 @@
 }
 #page-wrapper{
     margin: auto;
+    width: 80vw;
 }
 main{
     height: 150vh;
@@ -100,7 +101,7 @@ h2 {
 }
 
 #calc button {
-    padding: 5%;
+    padding: 4%;
     border: gold solid 3px;
     background: black;
     color: white;
@@ -145,7 +146,7 @@ h2 {
     }
     nav li{
         display: inline;
-        padding: 2% 5%;
+        padding: 2% 4%;
         margin: 0;
         font-size: calc(2px + 1vw);
     }

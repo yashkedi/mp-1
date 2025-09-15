@@ -4,6 +4,7 @@
 }
 #page-wrapper{
     margin: auto;
+    width: 80vw;
 }
 main{
     height: 150vh;
@@ -88,7 +89,7 @@ ol{
     }
     nav li{
         display: inline;
-        padding: 2% 5%;
+        padding: 2% 4%;
         margin: 0;
         font-size: calc(2px + 1vw);
     }
